@@ -1,0 +1,10 @@
+zfit
+tensorflow
+zfit_physics
+particle
+uproot
+mendeleev
+scipy
+numpy
+matplotlib
+pandas
