@@ -1,4 +1,4 @@
-zfit
+git+https://github.com/zfit/zfit  
 tensorflow
 git+https://github.com/zfit/zfit-physics
 particle
