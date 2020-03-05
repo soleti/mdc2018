@@ -1,6 +1,6 @@
 zfit
 tensorflow
-zfit_physics
+git+https://github.com/zfit/zfit-physics
 particle
 uproot
 mendeleev
