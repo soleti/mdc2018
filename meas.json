@@ -219,8 +219,9 @@
                         ],
                         "name": "lumi",
                         "sigmas": [
-                            0.1
-                        ]
+                            0.00001
+                        ],
+                        "fixed": true
                     },
                     {
                         "bounds": [
